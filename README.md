@@ -1,3 +1,8 @@
+# ABOUT
+This web application serves to demonstrate the use of MariaDB
+
+
+
 # CODEBOOTCAMP SQL QUERIES
 
 Creating the database: 
